@@ -1,2 +1,6 @@
-# Disaster_Or_Not_Twitter_NLP
-NLP &amp; Deep Learning on Twitter Disaster Dataset
+# Projet - Real or Not? NLP with Disaster Tweets
+
+## Description du projet 
+
+* Compétition - https://www.kaggle.com/c/nlp-getting-started
+
