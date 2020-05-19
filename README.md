@@ -19,13 +19,9 @@ In this competition, you’re challenged to build a machine learning model that 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZoziLaMalice/Disaster_Or_Not_Twitter_NLP/master/cloud_without_cleaning.png">
-</p>
-
-</br>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/ZoziLaMalice/Disaster_Or_Not_Twitter_NLP/master/cloud_after_cleaning.png">
 </p>
+
 
 # Acknowledgments
 
